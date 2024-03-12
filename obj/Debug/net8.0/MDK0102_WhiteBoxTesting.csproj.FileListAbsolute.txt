@@ -1,0 +1,14 @@
+C:\Users\Pozaza\source\repos\MDK0102_WhiteBoxTesting\bin\Debug\net8.0\MDK0102_WhiteBoxTesting.exe
+C:\Users\Pozaza\source\repos\MDK0102_WhiteBoxTesting\bin\Debug\net8.0\MDK0102_WhiteBoxTesting.deps.json
+C:\Users\Pozaza\source\repos\MDK0102_WhiteBoxTesting\bin\Debug\net8.0\MDK0102_WhiteBoxTesting.runtimeconfig.json
+C:\Users\Pozaza\source\repos\MDK0102_WhiteBoxTesting\bin\Debug\net8.0\MDK0102_WhiteBoxTesting.dll
+C:\Users\Pozaza\source\repos\MDK0102_WhiteBoxTesting\bin\Debug\net8.0\MDK0102_WhiteBoxTesting.pdb
+C:\Users\Pozaza\source\repos\MDK0102_WhiteBoxTesting\obj\Debug\net8.0\MDK0102_WhiteBoxTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pozaza\source\repos\MDK0102_WhiteBoxTesting\obj\Debug\net8.0\MDK0102_WhiteBoxTesting.AssemblyInfoInputs.cache
+C:\Users\Pozaza\source\repos\MDK0102_WhiteBoxTesting\obj\Debug\net8.0\MDK0102_WhiteBoxTesting.AssemblyInfo.cs
+C:\Users\Pozaza\source\repos\MDK0102_WhiteBoxTesting\obj\Debug\net8.0\MDK0102_WhiteBoxTesting.csproj.CoreCompileInputs.cache
+C:\Users\Pozaza\source\repos\MDK0102_WhiteBoxTesting\obj\Debug\net8.0\MDK0102_WhiteBoxTesting.dll
+C:\Users\Pozaza\source\repos\MDK0102_WhiteBoxTesting\obj\Debug\net8.0\refint\MDK0102_WhiteBoxTesting.dll
+C:\Users\Pozaza\source\repos\MDK0102_WhiteBoxTesting\obj\Debug\net8.0\MDK0102_WhiteBoxTesting.pdb
+C:\Users\Pozaza\source\repos\MDK0102_WhiteBoxTesting\obj\Debug\net8.0\MDK0102_WhiteBoxTesting.genruntimeconfig.cache
+C:\Users\Pozaza\source\repos\MDK0102_WhiteBoxTesting\obj\Debug\net8.0\ref\MDK0102_WhiteBoxTesting.dll
